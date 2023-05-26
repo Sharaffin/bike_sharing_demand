@@ -91,7 +91,7 @@ This could be important of planning new bike rental stations.</p>
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-Adil Khan | Data Science | Machine Learning | Deep Learning enthusiast
+Sharaffin B | Data Science | Machine Learning | Deep Learning enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations and Data Science related job roles</i></p>
 
